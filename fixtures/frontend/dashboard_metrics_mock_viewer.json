@@ -1,0 +1,28 @@
+{
+    "user": {
+        "id": 103,
+        "name": "Fulano de Tal",
+        "role": "viewer",
+        "authenticated": true
+    },
+    "metrics": {
+        "total_users": "1200",
+        "active_users": 875,
+        "admin_users": null,
+        "ghost_users": -5,
+        "users_by_region": [
+            {
+                "region": "SP",
+                "count": 600
+            },
+            {
+                "region": "RJ",
+                "count": 400
+            },
+            {
+                "region": "MG",
+                "count": 200
+            }
+        ]
+    }
+}

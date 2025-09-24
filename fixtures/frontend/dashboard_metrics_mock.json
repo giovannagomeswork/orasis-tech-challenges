@@ -1,0 +1,14 @@
+{
+    "user": {
+        "id": 42,
+        "name": "Thaynara Dutra",
+        "role": "admin",
+        "authenticated": true
+    },
+    "metrics": {
+        "total_users": 1200,
+        "active_users": 875,
+        "inactive_users": 290,
+        "admin_users": 35
+    }
+}
